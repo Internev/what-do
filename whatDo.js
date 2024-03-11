@@ -5,7 +5,7 @@ const tasks = [
   },
   {
     name: 'nonononogramgram',
-    score: 7,
+    score: 1,
   },
   {
     name: 'Palette Knife Painting',
@@ -29,6 +29,18 @@ const tasks = [
   },
   {
     name: 'Short Story',
+    score: 5,
+  },
+  {
+    name: 'Interview Prep',
+    score: 7,
+  },
+  {
+    name: 'Job Prep/Hunting',
+    score: 7,
+  },
+  {
+    name: 'Cooking',
     score: 5,
   }
 ]
