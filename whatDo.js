@@ -42,6 +42,10 @@ const tasks = [
   {
     name: 'Cooking',
     score: 5,
+  },
+  {
+    name: 'Charisma (or equivalent) training',
+    score: 3,
   }
 ]
 
